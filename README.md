@@ -19,5 +19,5 @@ Questo repository contiene il codice sorgente e la documentazione relativi alla 
 - Avviare la scena `MainMenu.unity` e selezionare l'algoritmo da testare.
 
 ## Build eseguibile
-Una build eseguibile, precompilata e pronta all'uso, è disponibile nella sezione [Release](https://github.com/SabbaPanella/Tesi-Pathfinding-Unity/releases).
+Una build eseguibile, precompilata e pronta all'uso, è disponibile nella sezione [Release](https://github.com/SabbaPanella/Tesi-Pathfinding-Unity/releases/latest).
 Basterà scaricarla, estrarre i contenuti e avviare `PathfindingComparison.exe`.
