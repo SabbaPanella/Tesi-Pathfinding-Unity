@@ -1,5 +1,5 @@
 **Autore:** Sabatino Panella  
-**Relatore:** [Nome del tuo relatore]
+**Relatore:** Prof. Vittorio Maniezzo
 
 ## Descrizione
 Questo repository contiene il codice sorgente e la documentazione relativi alla mia tesi dal titolo:  
