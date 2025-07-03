@@ -20,3 +20,4 @@ Questo repository contiene il codice sorgente e la documentazione relativi alla 
 
 ## Build eseguibile
 Una build eseguibile, precompilata e pronta all'uso, è disponibile nella sezione [Release](https://github.com/tuo-username/Tesi-Pathfinding-Unity/releases).
+Basterà scaricarla, estrarre i contenuti e avviare `PathfindingComparison.exe`.
